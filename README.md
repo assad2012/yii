@@ -63,3 +63,7 @@ and join discussions with other Yii users.
 
 The Yii Developer Team
 http://www.yiiframework.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/assad2012/yii/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
